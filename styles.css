@@ -124,7 +124,7 @@ p {
 h1 {
   margin: 0;
   max-width: 780px;
-  font-size: clamp(3rem, 5.8vw, 5.2rem);
+  font-size: clamp(2.9rem, 5.1vw, 4.7rem);
   line-height: 1;
   letter-spacing: 0;
 }
